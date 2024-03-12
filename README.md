@@ -1,2 +1,1 @@
-It takes paramaters from a list First_Name, Last_Name, Degree, Employment, Projects. Then depending on each of those it assighns a numeric value depending on what you are looking for. Ex Degree = 5 or for every job 
-they have had it would cound for 3 points. Then at the end it shows each canidate and the amount of points they have earned. 
+The program takes parameters from a list: First_Name, Last_Name, Degree, Employment, and Projects. Then, depending on each of those parameters, it assigns a numeric value based on what you are looking for. For example, Degree might be assigned 5 points, and each job they've had could count for 3 points. At the end, it displays each candidate and the total points they have earned.
